@@ -130,7 +130,7 @@ const Home = () => {
                           </ul>
                       </div>
                       <div className="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-lg-3 col-md-3 col-sm-3 locations row4_col">
-                          <h2>Location</h2>
+                          <h2></h2>
                           <figure><img className="logofooter" src="http://lymanwong.com/images/Logo2.png" alt="" /></figure>
                           <p className="title4">Making people beautiful in the Bay Area</p>
                           <hr className="line1" />
