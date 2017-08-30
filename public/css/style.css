@@ -1458,6 +1458,13 @@ footer {
 }
 }
 /**************************************************/
+@media (max-width: 1024px) {
+  .box2 figure img {
+    max-height: 14.7em;
+  }
+}
+
+/**************************************************/
 @media (min-width: 768px) and (max-width: 991px) {
 .contact-form .coll-1,  .contact-form .coll-2,  .contact-form .coll-3 {
   margin-right: 0;
