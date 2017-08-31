@@ -1,6 +1,6 @@
 /*------ template stylization ------*/
 body {
-  background: #2f3133 url(./img/patternbg.jpg) 0 0 repeat;
+  background: #2f3133 url(/img/patternbg.jpg) 0 0 repeat;
 }
 /*----------- Back to top --------------*/
 #toTop {
@@ -8,7 +8,7 @@ body {
   width: 27px;
   height: 19px;
   overflow: hidden;
-  background: url(./img/totop.png) 0 bottom no-repeat;
+  background: url(/img/totop.png) 0 bottom no-repeat;
   position: fixed;
   margin-right: -690px !important;
   right: 50%;
@@ -25,16 +25,16 @@ body {
 .row_1 {
   text-align: center;
   padding: 30px 0;
-  background: #2f3133 url(./img/patternbg.jpg) 0 0 repeat;
+  background: #2f3133 url(/img/patternbg.jpg) 0 0 repeat;
 }
 .row_2 {
   text-align: center;
   padding: 22px 0 0;
-  background: #2f3133 url(./img/patternbg.jpg) 0 0 repeat;
+  background: #2f3133 url(/img/patternbg.jpg) 0 0 repeat;
 }
 .row_3 {
   padding: 43px 0 13px;
-  background: url(./img/pattern2.jpg) 0 0 repeat;
+  background: url(/img/pattern2.jpg) 0 0 repeat;
 }
 .row_4 {
   padding: 30px 0 81px;
@@ -133,7 +133,7 @@ h3 {
   position: relative;
   height: 11px;
   width: 11px;
-  background: url(./img/arrowsmall1.png) center top no-repeat;
+  background: url(/img/arrowsmall1.png) center top no-repeat;
   display: inline-block;
 }
 .btn-link1:hover {
@@ -141,7 +141,7 @@ h3 {
   text-decoration: none;
 }
 .btn-link1:hover span {
-  background: url(./img/arrowsmall1.png) center bottom no-repeat;
+  background: url(/img/arrowsmall1.png) center bottom no-repeat;
 }
 .btn-link2 {
   position: relative;
@@ -157,7 +157,7 @@ h3 {
   position: relative;
   height: 11px;
   width: 11px;
-  background: url(./img/arrowsmall1.png) center bottom no-repeat;
+  background: url(/img/arrowsmall1.png) center bottom no-repeat;
   display: inline-block;
 }
 .btn-link2:hover {
@@ -165,7 +165,7 @@ h3 {
   text-decoration: none;
 }
 .btn-link2:hover span {
-  background: url(./img/arrowsmall1.png) center top no-repeat;
+  background: url(/img/arrowsmall1.png) center top no-repeat;
 }
 .btn-link2:focus {
   color: #adadad;
@@ -185,7 +185,7 @@ h3 {
   position: relative;
   height: 19px;
   width: 22px;
-  background: url(./img/iconmail.png) center bottom no-repeat;
+  background: url(/img/iconmail.png) center bottom no-repeat;
   display: inline-block;
 }
 .btn-link3:hover {
@@ -194,7 +194,7 @@ h3 {
 }
 /*------ header ------- */
 header {
-  background: #2f3133 url(./img/patternbg.jpg) 0 0 repeat;
+  background: #2f3133 url(/img/patternbg.jpg) 0 0 repeat;
   text-align: center;
 }
 /*-------- Logo -------- */
@@ -246,7 +246,7 @@ header {
   padding: 0 26px 0 27px;
   position: relative;
   zoom: 1;
-  background: url(./img/bullet1.png) no-repeat left center;
+  background: url(/img/bullet1.png) no-repeat left center;
 }
 .tm_navbar .nav li a {
   text-decoration: none;
@@ -263,7 +263,7 @@ header {
   text-shadow: 1px 1px 2px #333639;
 }
 .tm_navbar .nav > li > a .sf-sub-indicator {
-  background: url(./img/indicator.png) no-repeat 0 bottom;
+  background: url(/img/indicator.png) no-repeat 0 bottom;
   width: 7px;
   height: 4px;
   display: inline-block;
@@ -323,7 +323,7 @@ header {
   position: relative;
   zoom: 1;
   z-index: 10;
-  background: url(./img/dotted1.png) top center repeat-x;
+  background: url(/img/dotted1.png) top center repeat-x;
 }
 .tm_navbar .nav ul li a {
   text-align: left;
@@ -356,7 +356,7 @@ header {
   background: #4e4134;
   left: 86px;
   top: 0px;
-  background: url(./img/patternsubmenu2.jpg);
+  background: url(/img/patternsubmenu2.jpg);
 }
 .tm_navbar .nav ul ul li:first-child {
   text-align: left;
@@ -372,7 +372,7 @@ header {
   position: relative;
   zoom: 1;
   z-index: 11;
-  background: url(./img/dotted2.png) top center repeat-x;
+  background: url(/img/dotted2.png) top center repeat-x;
 }
 .tm_navbar .nav ul ul li a {
   color: #eb5368;
@@ -383,7 +383,7 @@ header {
 }
 /*-----indicator2-------*/
 .tm_navbar .nav ul .sf-sub-indicator {
-  background: url(./img/indicator.png) no-repeat 0 0;
+  background: url(/img/indicator.png) no-repeat 0 0;
   width: 7px;
   height: 5px;
   position: absolute;
@@ -587,7 +587,7 @@ header {
   list-style: none;
   padding: 0 0 0 23px;
   margin: 0 0 7px 0;
-  background: url("./img/arrowsmal2.png") 0 5px no-repeat;
+  background: url("/img/arrowsmal2.png") 0 5px no-repeat;
 }
 .list2 li:first-child {
   overflow: hidden;
@@ -1362,7 +1362,7 @@ address .info p:first-child {
 /*--------- footer --------- */
 footer {
   padding: 64px 0;
-  background: url(./img/linefooter.jpg) top center repeat-x;
+  background: url(/img/linefooter.jpg) top center repeat-x;
 }
 /*--------------social----------------*/
 .social_icons {
@@ -1457,6 +1457,14 @@ footer {
   padding: 0;
 }
 }
+/**************************************************/
+@media (max-width: 1219px) {
+  .box2 figure img, .box1 figure img {
+    max-height: 14.67em;
+  }
+}
+
+/**************************************************/
 /**************************************************/
 @media (max-width: 1024px) {
   .box2 figure img {
@@ -1616,6 +1624,7 @@ max-height: 24em;
 }
 .box1 figure img,  .box2 figure img,  .box3 figure img {
   width: 100%;
+  max-height: 35em;
 }
 .box2 figure img {
   height: auto;
