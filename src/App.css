@@ -1458,6 +1458,14 @@ footer {
 }
 }
 /**************************************************/
+@media (max-width: 1219px) {
+  .box2 figure img, .box1 figure img {
+    max-height: 14.67em;
+  }
+}
+
+/**************************************************/
+/**************************************************/
 @media (max-width: 1024px) {
   .box2 figure img {
     max-height: 14.7em;
@@ -1616,6 +1624,7 @@ max-height: 24em;
 }
 .box1 figure img,  .box2 figure img,  .box3 figure img {
   width: 100%;
+  max-height: 35em;
 }
 .box2 figure img {
   height: auto;
