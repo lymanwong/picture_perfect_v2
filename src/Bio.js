@@ -13,6 +13,7 @@ const Bio = () => {
                         <div className="col-lg-7 col-md-7 col-sm-7 reserve_table">
                             <h2>My Short Bio</h2>
                             <figure><img className="selfie" src="http://lymanwong.com/images/ivonself.jpg" alt=""/></figure>
+                            <h2>Professional Makeup Artist and Licensed Esthetician</h2>
                             <h3>I attended The Academy for Salon Professionals where I received top of the line training in Dermalogica.</h3>
                             <p>Attended regular private training at the Dermalogica Institute in San Francisco. I am a licenced Esthetician with a passion for Makeup Artistry!</p>
                             <p>I've done makeup for celebrities, photoshoots, short films, fashion runways, weddings and more! I can also teach you how to apply makeup to look your best.</p>

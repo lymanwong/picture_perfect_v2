@@ -131,7 +131,7 @@ const Home = () => {
                       </div>
                       <div className="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-lg-3 col-md-3 col-sm-3 locations row4_col">
                           <h2></h2>
-                          <figure><img className="logofooter" src="http://lymanwong.com/images/Logo2.png" alt="" /></figure>
+                          <figure><img className="logofooter" src="/img/Lm_9SlmwD.png" alt="" /></figure>
                           <p className="title4">Making people beautiful in the Bay Area</p>
                           <hr className="line1" />
                           <a href="mailto:ivong2000@gmail.com?subject=Mail from your website" className="btn-link btn-link3"><span></span>ivong2000@gmail.com</a>

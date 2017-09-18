@@ -10,7 +10,7 @@ export default class App extends Component{
         <div>
             <header id="header">
               <div className="container">
-                <h1 className="navbar-brand navbar-brand_"><Link to="/"><img alt="" src="http://lymanwong.com/images/logo_white.png" /></Link></h1>
+                <h1 className="navbar-brand navbar-brand_"><Link to="/"><img alt="" src="/img/Lm_52a79G.png" /></Link></h1>
               </div>
               <div className="menuheader">
                   <div className="container">
@@ -29,6 +29,7 @@ export default class App extends Component{
             <div className="contents">
                 {this.props.children}
             </div>
+
             <footer>
                 <div className="container">
                     <div className="row">
@@ -41,7 +42,7 @@ export default class App extends Component{
                             </ul>
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-4 footerlogo footercol">
-                            <Link to="/" className="smalllogo2 logo"><img src="http://lymanwong.com/images/logo_white.png" alt="" /></Link>
+                            <Link to="/" className="smalllogo2 logo"><img src="/img/Lm_52a79G.png" alt="" /></Link>
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-4 footercol">
                             <p className="footerpriv">&copy; 2017 &bull; <Link to="privacy" className="privacylink">Privacy policy</Link></p>
